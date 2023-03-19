@@ -312,3 +312,68 @@ Elapsed Time (in ms): 3237.8428 ms  Elapsed Time (in sec): 3.24 sec
 
   ________________________________________ 
  
+INPUT : dog, animal, cat, horse, monkey, kite, final, go, night, find, port, interest, design, description, director, initial, home, wait, sky, umberella, note, rat, toast, tea, rain , dance, goal, bite, money 
+OUTPUT: 
+
+कुत्ता, जानवर, बिल्ली, घोड़ा, बंदर, पत्ता, अंतिम, जाओ, रात, ढूंढो, बंदरगाह, रुचि, डिजाइन, विवरण, निदेशक, प्रारंभिक, घर, प्रतीक्षा, 
+ 
+ 
+Elapsed Time (in ms): 16321.1252 ms Elapsed Time (in sec): 16.32 sec 
+
+  ________________________________________ 
+ 
+INPUT : dog, animal, cat, horse, monkey, kite, final, go, night, find 
+INPUT : dog, animal, cat, horse, monkey, kite, final, go, night, find  
+
+
+INPUT : dog, cat, horse, monkey, up, down, come, go, pull, lift 
+INPUT : hello 
+OUTPUT: 
+
+नमस्ते 
+ 
+ 
+Elapsed Time (in ms): 7033.0513 ms Elapsed Time (in sec): 7.03 sec 
+
+  ________________________________________ 
+ 
+INPUT : dog, kite, love, monkey, light, up, down, lift, monk, honey 
+OUTPUT: 
+
+कुत्ता, पतंग, प्यार, बंदर, प्रकाश, ऊपर, नीचे, उठाना, मंगल, महिना 
+ 
+ 
+Elapsed Time (in ms): 6389.1069 ms Elapsed Time (in sec): 6.39 sec 
+
+  ________________________________________ 
+ 
+INPUT :  dog, animal, cat, horse, monkey, kite, final, go, night, find 
+OUTPUT: 
+
+कुत्ता, जानवर, बिल्ली, घोड़ा, बंदर, पत्ता, अंतिम, जाओ, रात, ढूंढो 
+ 
+ 
+Elapsed Time (in ms): 11442.0362 ms Elapsed Time (in sec): 11.44 sec 
+
+  ________________________________________ 
+ 
+INPUT : dog, animal, cat, horse, monkey, kite, final, go, night, find, port, interest, design, description, director, initial, home, wait, sky, umberella, note, rat, 
+OUTPUT: 
+
+कुत्ता, जानवर, बिल्ली, घोड़ा, बंदर, पत्ता, अंतिम, जाओ, रात, ढूंढो, बंदरगाह, रुचि, डिजाइन, विवरण, निदेशक, प्रारंभिक, घर, प्रतीक्षा, 
+ 
+ 
+Elapsed Time (in ms): 37767.4835 ms Elapsed Time (in sec): 37.77 sec 
+
+  ________________________________________ 
+ 
+INPUT : dog, animal, cat, horse, monkey, kite, final, go, night, find, port, interest, design, description, director, initial, home, wait, sky, umberella, note, rat, toast, tea, rain , dance, goal, bite, money 
+OUTPUT: 
+
+कुत्ता, जानवर, बिल्ली, घोड़ा, बंदर, पत्ता, अंतिम, जाओ, रात, ढूंढो, बंदरगाह, रुचि, डिजाइन, विवरण, निदेशक, प्रारंभिक, घर, प्रतीक्षा, 
+ 
+ 
+Elapsed Time (in ms): 13254.3014 ms Elapsed Time (in sec): 13.25 sec 
+
+  ________________________________________ 
+ 

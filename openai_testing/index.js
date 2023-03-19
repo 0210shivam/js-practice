@@ -10,7 +10,7 @@ const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
    organization: "org-T8Su9wEl3AA1mLKGvOjGDwAc",
-   apiKey: "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",
+   apiKey: "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",
 });
 
 const openai = new OpenAIApi(configuration);
@@ -28,11 +28,9 @@ let elapsedTimeInSeconds;
 
 async function callApi(data, callback) {
 
-   fs.appendFileSync('output/output.txt', `INPUT : ${data} \n`);       //*takes input
-
    const response = await openai.createCompletion({
       model: "text-davinci-003",
-      prompt: `translate and write each word seprately which seprated by comma : "${data}" into hindi language fonts`,
+      prompt: `translate and write each word : "${data}" into hindi language fonts`,
       max_tokens: 200,
       temperature: 0,
    });
@@ -63,6 +61,8 @@ const rl = readline.createInterface({
 let startTime;
 
 rl.question('Enter Your Input - ', (input) => {
+
+   fs.appendFileSync('output/output.txt', `INPUT : ${input} \n`);
 
    // *Calling Function Here ----->
 
